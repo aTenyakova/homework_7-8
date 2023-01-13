@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\3\task_52\bin\Debug\net7.0\task_52.exe
+C:\Users\Admin\Desktop\3\task_52\bin\Debug\net7.0\task_52.deps.json
+C:\Users\Admin\Desktop\3\task_52\bin\Debug\net7.0\task_52.runtimeconfig.json
+C:\Users\Admin\Desktop\3\task_52\bin\Debug\net7.0\task_52.dll
+C:\Users\Admin\Desktop\3\task_52\bin\Debug\net7.0\task_52.pdb
+C:\Users\Admin\Desktop\3\task_52\obj\Debug\net7.0\task_52.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\3\task_52\obj\Debug\net7.0\task_52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\3\task_52\obj\Debug\net7.0\task_52.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\3\task_52\obj\Debug\net7.0\task_52.AssemblyInfo.cs
+C:\Users\Admin\Desktop\3\task_52\obj\Debug\net7.0\task_52.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\3\task_52\obj\Debug\net7.0\task_52.dll
+C:\Users\Admin\Desktop\3\task_52\obj\Debug\net7.0\refint\task_52.dll
+C:\Users\Admin\Desktop\3\task_52\obj\Debug\net7.0\task_52.pdb
+C:\Users\Admin\Desktop\3\task_52\obj\Debug\net7.0\task_52.genruntimeconfig.cache
+C:\Users\Admin\Desktop\3\task_52\obj\Debug\net7.0\ref\task_52.dll
